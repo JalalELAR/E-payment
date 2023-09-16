@@ -3,12 +3,12 @@
 
 ## Les prérequis&Etapes:
 **Il vous faut un IDE ou un terminal pour commencer et lancer le programme**
-1- Creer un dossier ,placez vous dans le dossier
-2- Telecharger python ,veuillez Consulter le lien suivant **"https://www.python.org/downloads/"**
-3- Telecharger selenium compatible avec python avec la commande **"pip install selenium"** sur votre terminal,veuillez Consulter le lien suivant **"https://pypi.org/project/selenium/"**
-4- Telecharger le driver de google chrome et le placer dans le dossier  => "chromedriver" avec une version compatible à celle de votre navigateur chrome,veuillez Consulter le lien suivant "https://chromedriver.chromium.org/"
-5- Telecharger **"pytest"** le framework de python ,qui est responsable de l'organisation des tests et la generation du rapport des tests lancés, avec la commande "pip install pytest" sur votre terminal
-6-creer un fichier python(.py) dans le dossier cree et coller dedans le code python du ficher (test.py) 
+1. Creer un dossier ,placez vous dans le dossier
+2. Telecharger python ,veuillez Consulter le lien suivant **"https://www.python.org/downloads/"**
+3. Telecharger selenium compatible avec python avec la commande **"pip install selenium"** sur votre terminal,veuillez Consulter le lien suivant **"https://pypi.org/project/selenium/"**
+4. Telecharger le driver de google chrome et le placer dans le dossier  => "chromedriver" avec une version compatible à celle de votre navigateur chrome,veuillez Consulter le lien suivant "https://chromedriver.chromium.org/"
+5. Telecharger **"pytest"** le framework de python ,qui est responsable de l'organisation des tests et la generation du rapport des tests lancés, avec la commande "pip install pytest" sur votre terminal
+6.creer un fichier python(.py) dans le dossier cree et coller dedans le code python du ficher (test.py) 
 ## Lancer les tests:
 **-Pour lancer le script(ttes les fonctions de tests) =>"pytest nom_fichier.py"  ,exemple:"pytest tst_decon.py"**  
 ## Generer des rapports:
