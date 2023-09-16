@@ -12,7 +12,7 @@
 ## Lancer les tests:
 -**Pour lancer le script(ttes les fonctions de tests) =>"pytest nom_fichier.py"  ,exemple:"pytest tst_decon.py"**  
 ## Generer des rapports:
--**Pour generer un rapport faut installer et ecrire sur le terminal  :**
--**"pip install pytest-html"** => **pour un rapport HTML**  ,  RUN : **"pytest test_decon.py --html=rapport_epayment.html"**
--**"pip install pytest-reportlog"**  => **pour un rapport txt**   ,  RUN : **"pytest test_decon.py --report-log=rapport_epayment.txt"** 
--**"pip install WeasyPrint"**  => **pour convertir un rapport txt en PDF**  ,  RUN : **"weasyprint rapport_epayment.txt rapport_epayment.pdf"**
+- **Pour generer un rapport faut installer et ecrire sur le terminal  :**
+- **"pip install pytest-html"** => **pour un rapport HTML**  ,  RUN : **"pytest test_decon.py --html=rapport_epayment.html"**
+- **"pip install pytest-reportlog"**  => **pour un rapport txt**   ,  RUN : **"pytest test_decon.py --report-log=rapport_epayment.txt"** 
+- **"pip install WeasyPrint"**  => **pour convertir un rapport txt en PDF**  ,  RUN : **"weasyprint rapport_epayment.txt rapport_epayment.pdf"**
